@@ -1,0 +1,11 @@
+{
+  "theme": "Andromeda",
+  "vim_mode": true,
+  "ui_font_size": 15,
+  "buffer_font_size": 15,
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "confirm_quit": true
+}
